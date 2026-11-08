@@ -35,11 +35,6 @@ I enjoy solving technical challenges and building maintainable, high-quality use
   <img src="https://skills.syvixor.com/api/icons?i=javascript,typescript,reactjs,nextjs,html,css3,redux,graphql,apollo,reactquery,reacthookform,zod,sass,styledcomponents,tailwindcss,jest,cypress,git,githubactions,postman,chatgpt,claudeai&perline=22&radius=40&theme=dark" alt="Tech Stack & Tools" />
 </p>
 
-<h2>Featured Projects</h2>
-
-
----
-
 <h2>💼 Featured Projects</h2>
 
 <table width="100%" border="0" cellpadding="14" cellspacing="0">
