@@ -90,6 +90,11 @@ I enjoy solving technical challenges and building maintainable, high-quality use
   </tbody>
 </table>
 
+
 ## 📊 GitHub Analytics
 
-![GitHub Stats](https://ghstats.dev/api/card?username=chaban1001&theme=light)
+ <img
+    src="https://ghstats.dev/api/card?username=chaban1001&theme=light"
+    alt="GitHub Stats"
+  />
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=chaban1001&langs_count=5&theme=light_github)](https://github-stats-extended.vercel.app/api/top-langs?username=chaban1001&langs_count=5&theme=light_github)
