@@ -1,8 +1,4 @@
-<h1 align="left">Hey, I'm Roman 👋</h1>
-
-<h3 align="left">
-  Middle Frontend Developer | React · Next.js · TypeScript
-</h3>
+<h1 align="left">Hey, I'm Roman 👋  Middle Frontend Developer</h1>
 
 ## 👨‍💻 About Me
 
