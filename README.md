@@ -2,16 +2,18 @@
 
 **Middle Frontend Developer** · React · Next.js · TypeScript
 
-With 2+ years of commercial experience, I build web applications for HR Tech and e-commerce platforms. I work with SSR, GraphQL integrations, payment flows, and web performance, and I use Feature-Sliced Design to keep codebases maintainable as they grow.
+I build web applications for HR Tech and e-commerce platforms, working with SSR, GraphQL, payment flows, and web performance. I have 2+ years of commercial experience and use Feature-Sliced Design to keep codebases maintainable as they grow.
 
 📍 Lviv, Ukraine · 🟢 Open to work · 🗣 English B2
 
 ## Selected Impact
 
-- **+20% sign-ups** — Built an Auth Stepper that keeps form data across steps and lets new users register mid-flow while creating a Vacancy or Resume.
-- **Page load ~4s → ~2.5s** — Fixed Styled Components SSR/hydration issues, optimized images, and reduced unnecessary re-renders on the Resume and Vacancy pages.
-- **Lighthouse Performance 75 → 90+** — Added lazy loading, skeleton loaders, Suspense, and image optimization on the Home and Products pages.
-- **Payment flows** — Built the payment modal for Premium and Bump promotions (Portmanat, Yigim), including success, failure, and redirect handling.
+| +20% | ~4s → ~2.5s | 75 → 90+ |
+|:---:|:---:|:---:|
+| **sign-ups** | **page load** | **Lighthouse Performance** |
+| Auth Stepper with mid-flow registration<br><sub>product analytics</sub> | Fixed SSR/hydration issues, optimized images<br><sub>Resume & Vacancy pages · Lighthouse</sub> | Lazy loading, Suspense, image optimization<br><sub>Home & Products pages</sub> |
+
+Also built the payment modal for Premium and Bump promotions (Portmanat, Yigim), with success, failure, and redirect handling.
 
 ## Tech Stack
 
@@ -35,4 +37,8 @@ Online fashion store with product browsing, a responsive UI, and state that pers
 
 ## Get in Touch
 
-[LinkedIn](https://www.linkedin.com/in/romanchaban/) · [Telegram](https://t.me/chaban.dev) · [Email](mailto:roman.chaban1001@gmail.com)
+<p>
+  <a href="https://www.linkedin.com/in/romanchaban/"><img src="./assets/linkedin.svg" width="135" height="36" alt="Roman Chaban on LinkedIn"></a>
+  <a href="https://t.me/chaban.dev"><img src="./assets/telegram.svg" width="135" height="36" alt="Roman Chaban on Telegram"></a>
+  <a href="mailto:roman.chaban1001@gmail.com"><img src="./assets/gmail.svg" width="135" height="36" alt="Email Roman Chaban"></a>
+</p>
