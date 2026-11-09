@@ -44,30 +44,15 @@ I enjoy solving technical challenges and building maintainable, high-quality use
   <tbody>
     <tr>
       <td valign="top" height="100">
-        A modern interior design platform for discovering furniture, decor, and creative design inspiration.
+        DreamSpace-Interiors offers interior design services for homes and businesses, focusing on functional and modern spaces.
       </td>
       <td valign="top" height="100">
-        A fashion e-commerce platform for browsing clothing collections and enjoying a seamless shopping experience.
+        Clothings Store is a fashion retailer offering clothing for everyday use, work, and special events, focused on modern styles and practicality.
       </td>
       <td valign="top" height="100">
-        An online marketplace for exploring Apple products through a clean and responsive shopping interface.
+        iMarketplace is an online Apple product store with iPhones, iPads, and accessories.
       </td>
     </tr>
-    <tr>
-      <td valign="top" height="100">
-        <strong>Tech Stack</strong><br/><br/>
-        React · Next.js · TypeScript · Redux Toolkit
-      </td>
-      <td valign="top" height="100">
-        <strong>Tech Stack</strong><br/><br/>
-        React · Next.js · TypeScript · Redux Toolkit · Tailwind CSS
-      </td>
-      <td valign="top" height="100">
-        <strong>Tech Stack</strong><br/><br/>
-        React · TypeScript · Redux Toolkit · Vite
-      </td>
-    </tr>
-    <tr>
       <td valign="bottom">
         <a href="https://github.com/chaban1001/DreamSpace-Interiors">View Repository →</a>
       </td>
