@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="44" viewBox="0 0 150 44" role="img" aria-label="Gmail">
+  <title>Gmail</title>
+  <defs>
+    <clipPath id="clip-gmail"><rect width="150" height="44" rx="7"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip-gmail)">
+    <rect width="150" height="44" fill="#ffffff"/>
+    <rect width="44" height="44" fill="#f6f8fa"/>
+    <rect x="44" width="1" height="44" fill="#d0d7de"/>
+  </g>
+  <rect x="0.5" y="0.5" width="149" height="43" rx="6.5" fill="none" stroke="#d0d7de"/>
+  <g transform="translate(11 13.75) scale(0.25) translate(-52 -42)">
+    <path fill="#4285F4" d="M58 108h14V74L52 59v43c0 3.32 2.69 6 6 6"/>
+    <path fill="#34A853" d="M120 108h14c3.32 0 6-2.69 6-6V59l-20 15"/>
+    <path fill="#FBBC04" d="M120 48v26l20-15v-8c0-7.42-8.47-11.65-14.4-7.2"/>
+    <path fill="#EA4335" d="M72 74V48l24 18 24-18v26L96 92"/>
+    <path fill="#C5221F" d="M52 51v8l20 15V48l-5.6-4.2c-5.94-4.45-14.4-.22-14.4 7.2"/>
+  </g>
+  <text x="97" y="27.5" text-anchor="middle" fill="#24292f" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600">Gmail</text>
+</svg>
