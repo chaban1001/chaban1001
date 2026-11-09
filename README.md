@@ -2,6 +2,8 @@
 
 **Middle Frontend Developer** · React · Next.js · TypeScript
 
+<img src="https://komarev.com/ghpvc/?username=chaban1001&label=PROFILE+VIEWS&color=7dd3fc&labelColor=e0f2fe&style=for-the-badge" alt="Arctic Blue"/>
+
 ## 👨‍💻 About Me
 
 I have 2+ years of commercial experience building web applications with React, Next.js, and TypeScript for HR Tech and e-commerce platforms. I work on SSR, GraphQL integrations, payment flows, and web performance, and I structure codebases with Feature-Sliced Design to keep them maintainable as they grow.
