@@ -1,7 +1,13 @@
-<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M27.2656 300.001H90.8855V145.495L0 77.3311V272.735C0 287.822 12.2241 300.001 27.2656 300.001Z" fill="#4285F4"/>
-<path d="M309.011 300.001H372.631C387.718 300.001 399.896 287.776 399.896 272.735V77.3311L309.011 145.495" fill="#34A853"/>
-<path d="M309.011 27.343V145.494L399.896 77.33V40.9758C399.896 7.2573 361.406 -11.965 334.459 8.25704" fill="#FBBC04"/>
-<path d="M90.8862 145.495V27.3438L199.949 109.141L309.011 27.3438V145.495L199.949 227.292" fill="#EA4335"/>
-<path d="M0 40.9758V77.33L90.8855 145.494V27.343L65.4376 8.25704C38.4446 -11.965 0 7.2573 0 40.9758Z" fill="#C5221F"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="40" viewBox="0 0 150 40" fill="none" role="img" aria-label="Email Roman Chaban">
+  <title>Email Roman Chaban</title>
+  <rect x="0.5" y="0.5" width="149" height="39" rx="10" fill="#ffffff" stroke="#dadce0"/>
+  <g transform="translate(10 11.75) scale(0.055)">
+    <path d="M27.2656 300.001H90.8855V145.495L0 77.3311V272.735C0 287.822 12.2241 300.001 27.2656 300.001Z" fill="#4285F4"/>
+    <path d="M309.011 300.001H372.631C387.718 300.001 399.896 287.776 399.896 272.735V77.3311L309.011 145.495" fill="#34A853"/>
+    <path d="M309.011 27.343V145.494L399.896 77.33V40.9758C399.896 7.2573 361.406 -11.965 334.459 8.25704" fill="#FBBC04"/>
+    <path d="M90.8862 145.495V27.3438L199.949 109.141L309.011 27.3438V145.495L199.949 227.292" fill="#EA4335"/>
+    <path d="M0 40.9758V77.33L90.8855 145.494V27.343L65.4376 8.25704C38.4446 -11.965 0 7.2573 0 40.9758Z" fill="#C5221F"/>
+  </g>
+  <line x1="42" y1="9" x2="42" y2="31" stroke="#e8eaed"/>
+  <text x="96" y="24.5" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="0.2" fill="#3c4043">Email</text>
 </svg>
