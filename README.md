@@ -105,7 +105,7 @@ Whether you're looking for a frontend developer, have an exciting project in min
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   
-  <a href="https://www.linkedin.com/in/roman-chaban/" target="_blank">
+  <a href="https://www.linkedin.com/in/romanchaban/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
