@@ -1,74 +1,38 @@
-# Hey, I'm Roman 👋
+# Hey, I'm Roman Chaban 👋
 
-<h3>
-  <strong>Middle Frontend Developer</strong> · React · Next.js · TypeScript
-</h3>
+**Middle Frontend Developer** · React · Next.js · TypeScript
 
-<img src="https://komarev.com/ghpvc/?username=chaban1001&label=PROFILE+VIEWS&color=7dd3fc&labelColor=e0f2fe&style=flat-square" alt="Profile Views"/>
+With 2+ years of commercial experience, I build web applications for HR Tech and e-commerce platforms. I work with SSR, GraphQL integrations, payment flows, and web performance, and I use Feature-Sliced Design to keep codebases maintainable as they grow.
 
-## About Me
+📍 Lviv, Ukraine · 🟢 Open to work · 🗣 English B2
 
-I have 2+ years of commercial experience building web applications with React, Next.js, and TypeScript for HR Tech and e-commerce platforms. I work on SSR, GraphQL integrations, payment flows, and web performance, and I structure codebases with Feature-Sliced Design to keep them maintainable as they grow.
+## Selected Impact
 
-## Key Achievements
+- **+20% sign-ups** — Built an Auth Stepper that keeps form data across steps and lets new users register mid-flow while creating a Vacancy or Resume.
+- **Page load ~4s → ~2.5s** — Fixed Styled Components SSR/hydration issues, optimized images, and reduced unnecessary re-renders on the Resume and Vacancy pages.
+- **Lighthouse Performance 75 → 90+** — Added lazy loading, skeleton loaders, Suspense, and image optimization on the Home and Products pages.
+- **Payment flows** — Built the payment modal for Premium and Bump promotions (Portmanat, Yigim), including success, failure, and redirect handling.
 
-- **+20% sign-ups** – Built an Auth Stepper that keeps form data across steps and lets new users sign up mid-flow while creating a Vacancy or Resume.
-- **~4s → ~2.5s page load** – Fixed Styled Components SSR/hydration issues, optimized images, and applied memoization (`React.memo`, `useMemo`, `useCallback`) on the Resume and Vacancy pages.
-- **Lighthouse Performance 75 → 90+** – Added lazy loading, skeleton loaders, Suspense, and image optimization on the Home and Products pages.
-
-## Technologies That I Know
+## Tech Stack
 
 <p>
-  <img src="https://skills.syvixor.com/api/icons?i=javascript,typescript,html,css3,reactjs,nextjs,reacthookform,zod,redux,reactquery,graphql,apollo,sass,styledcomponents,tailwindcss,jest,cypress,git,githubactions,postman,chatgpt,claudeai&perline=12&radius=40&theme=dark" alt="Tech stack: JavaScript, TypeScript, HTML, CSS, React, Next.js, React Hook Form, Zod, Redux, React Query, GraphQL, Apollo, Sass, Styled Components, Tailwind CSS, Jest, Cypress, Git, GitHub Actions, Postman, ChatGPT, Claude" />
+  <img src="https://skills.syvixor.com/api/icons?i=javascript,typescript,html,css3,reactjs,nextjs,reacthookform,zod,redux,reactquery,graphql,apollo,sass,styledcomponents,tailwindcss,jest,cypress,git,githubactions,postman&perline=10&radius=40&theme=dark" alt="Tech stack: JavaScript, TypeScript, HTML, CSS, React, Next.js, React Hook Form, Zod, Redux, React Query, GraphQL, Apollo, Sass, Styled Components, Tailwind CSS, Jest, Cypress, Git, GitHub Actions, Postman" />
 </p>
 
 ## Featured Projects
 
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="33%" align="left">DreamSpace Interiors</th>
-      <th width="33%" align="left">Clothings Store</th>
-      <th width="33%" align="left">iMarketplace</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td valign="top">
-        Interior design platform with an inspiration gallery, project planning tools, and location-based search for nearby showrooms.
-      </td>
-      <td valign="top">
-        Online fashion store with product browsing, a responsive interface, and state that persists across sessions.
-      </td>
-      <td valign="top">
-        Online store for Apple products: iPhones, iPads, and accessories.
-      </td>
-    </tr>
-    <tr>
-      <td valign="bottom">
-        <a href="https://github.com/chaban1001/DreamSpace-Interiors">View Repository →</a>
-      </td>
-      <td valign="bottom">
-        <a href="https://github.com/chaban1001/Clothings-Store">View Repository →</a>
-      </td>
-      <td valign="bottom">
-        <a href="https://github.com/chaban1001/iMarketplace">View Repository →</a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+**[DreamSpace Interiors](https://dream-space-interiors.vercel.app/)** · [Code](https://github.com/chaban1001/DreamSpace-Interiors)<br>
+Interior design platform with an inspiration gallery, project planning tools, and location-based showroom search.<br>
+`Next.js` `TypeScript` `Redux Toolkit` `Google Maps API` `Framer Motion`
 
-## GitHub Stats
+**[iMarketplace](https://roman-chaban.github.io/iMarketplace/)** · [Code](https://github.com/chaban1001/iMarketplace)<br>
+Online store for Apple products: iPhones, iPads, and accessories.<br>
+`React` `Vite` `TypeScript` `Redux Toolkit` `React Router`
 
-<p>
-  <a href="https://github.com/chaban1001"><img align="top" src="https://ghstats.dev/api/card?username=chaban1001&theme=light" alt="GitHub statistics for Roman Chaban" /></a>
-  <a href="https://github.com/chaban1001"><img align="top" src="https://github-stats-extended.vercel.app/api/top-langs?username=chaban1001&langs_count=5&theme=light_github" alt="Most used languages on GitHub" /></a>
-</p>
+**[Clothings Store](https://clothing-store-tau-drab.vercel.app/)** · [Code](https://github.com/chaban1001/Clothings-Store)<br>
+Online fashion store with product browsing, a responsive UI, and state that persists across sessions.<br>
+`Next.js` `TypeScript` `Redux Toolkit` `Redux Persist` `Swiper`
 
-## Connect With Me
+## Get in Touch
 
-<p>
-  <a href="mailto:roman.chaban1001@gmail.com"><img src="./assets/gmail.svg" width="150" height="40" alt="Email Roman Chaban"></a>
-  <a href="https://www.linkedin.com/in/romanchaban/"><img src="./assets/linkedin.svg" width="150" height="40" alt="Roman Chaban on LinkedIn"></a>
-  <a href="https://t.me/chaban.dev"><img src="./assets/telegram.svg" width="150" height="40" alt="Roman Chaban on Telegram"></a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/romanchaban/) · [Telegram](https://t.me/chaban.dev) · [Email](mailto:roman.chaban1001@gmail.com)
