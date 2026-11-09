@@ -103,4 +103,7 @@ Whether you're looking for a frontend developer, have an exciting project in min
   <a href="https://www.linkedin.com/in/romanchaban/">
     <img src="./assets/linkedin.svg" width="150" height="44" alt="LinkedIn">
   </a>
+    <a href="https://t.me/chaban.dev">
+      <img src="./assets/telegram.svg" alt="Telegram" width="150" height="44">
+    </a>
 </div>
