@@ -57,8 +57,8 @@ I have 2+ years of commercial experience building web applications with React, N
 ## 📊 GitHub Stats
 
 <p>
-    <img src="https://ghstats.dev/api/card?username=chaban1001&theme=light" alt="GitHub stats" />
-    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=chaban1001&langs_count=5&theme=light_github" alt="Most used languages" />
+  <a href="https://github.com/chaban1001"><img align="top" src="https://ghstats.dev/api/card?username=chaban1001&theme=light" alt="GitHub statistics for Roman Chaban" /></a>
+  <a href="https://github.com/chaban1001"><img align="top" src="https://github-stats-extended.vercel.app/api/top-langs?username=chaban1001&langs_count=5&theme=light_github" alt="Most used languages on GitHub" /></a>
 </p>
 
 ## 🤝 Connect With Me
@@ -66,7 +66,7 @@ I have 2+ years of commercial experience building web applications with React, N
 I'm open to new opportunities, interesting projects, and collaborations. Whether you're looking for a frontend developer or just want to exchange ideas, feel free to reach out.
 
 <p>
-    <a href="mailto:roman.chaban1001@gmail.com"><img src="./assets/gmail.svg" width="150" height="44" alt="Gmail"></a>
-  <a href="https://www.linkedin.com/in/romanchaban/"><img src="./assets/linkedin.svg" width="150" height="44" alt="LinkedIn"></a>
-  <a href="https://t.me/chaban.dev"><img src="./assets/telegram.svg" width="150" height="44" alt="Telegram"></a>
+  <a href="mailto:roman.chaban1001@gmail.com"><img src="./assets/gmail.svg" width="150" height="44" alt="Email Roman Chaban"></a>
+  <a href="https://www.linkedin.com/in/romanchaban/"><img src="./assets/linkedin.svg" width="150" height="44" alt="Roman Chaban on LinkedIn"></a>
+  <a href="https://t.me/chaban.dev"><img src="./assets/telegram.svg" width="150" height="44" alt="Roman Chaban on Telegram"></a>
 </p>
