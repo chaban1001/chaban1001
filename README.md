@@ -93,3 +93,19 @@ I enjoy solving technical challenges and building maintainable, high-quality use
     alt="GitHub Stats"
   />
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=chaban1001&langs_count=5&theme=light_github)](https://github-stats-extended.vercel.app/api/top-langs?username=chaban1001&langs_count=5&theme=light_github)
+
+🤝 Connect With Me
+
+I'm always open to discussing new opportunities, interesting projects, and potential collaborations.
+
+Whether you're looking for a frontend developer, have an exciting project in mind, or simply want to connect and exchange ideas, feel free to reach out.
+
+<p align="left">
+  <a href="https://github.com/chaban1001" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/roman-chaban/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
