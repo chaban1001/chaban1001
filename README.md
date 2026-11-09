@@ -1,6 +1,5 @@
-# Hey, I'm Roman Chaban 👋
+<img src="./assets/banner.svg" alt="Roman Chaban, Middle Frontend Developer. React, Next.js, TypeScript. Lviv, Ukraine. Open to work. English B2." width="100%">
 
-**Middle Frontend Developer** · React · Next.js · TypeScript
 
 I build web applications for HR Tech and e-commerce platforms, working with SSR, GraphQL, payment flows, and web performance. I have 2+ years of commercial experience and use Feature-Sliced Design to keep codebases maintainable as they grow.
 
@@ -8,10 +7,8 @@ I build web applications for HR Tech and e-commerce platforms, working with SSR,
 
 ## Selected Impact
 
-| +20% | ~4s → ~2.5s | 75 → 90+ |
-|:---:|:---:|:---:|
-| **sign-ups** | **page load** | **Lighthouse Performance** |
-| Auth Stepper with mid-flow registration<br><sub>product analytics</sub> | Fixed SSR/hydration issues, optimized images<br><sub>Resume & Vacancy pages · Lighthouse</sub> | Lazy loading, Suspense, image optimization<br><sub>Home & Products pages</sub> |
+<img src="./assets/impact.svg" alt="Impact: +20% sign-ups (Auth Stepper, product analytics). Page load ~4s to ~2.5s (Lighthouse, Resume and Vacancy pages). Lighthouse Performance 75 to 90+ (Home and Products pages)." width="100%">
+
 
 Also built the payment modal for Premium and Bump promotions (Portmanat, Yigim), with success, failure, and redirect handling.
 
