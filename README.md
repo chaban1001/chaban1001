@@ -96,17 +96,11 @@ I'm always open to discussing new opportunities, interesting projects, and poten
 
 Whether you're looking for a frontend developer, have an exciting project in mind, or simply want to connect and exchange ideas, feel free to reach out.
 
-<p align="left">
+<div align="left" style="display: flex; gap: 12px; align-items: center;">
   <a href="https://github.com/chaban1001">
-    <img
-      src="https://img.shields.io/badge/GitHub-24292F?style=flat&logo=github&logoColor=E6EDF3"
-      alt="GitHub"
-    />
+    <img src="./assets/github.svg" width="150" height="44" alt="GitHub">
   </a>
   <a href="https://www.linkedin.com/in/romanchaban/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-164B75?style=flat&logo=linkedin&logoColor=9ACBFA"
-      alt="LinkedIn"
-    />
+    <img src="./assets/linkedin.svg" width="150" height="44" alt="LinkedIn">
   </a>
-</p>
+</div>
