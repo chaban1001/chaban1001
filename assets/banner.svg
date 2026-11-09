@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250" fill="none" role="img" aria-label="Roman Chaban, Middle Frontend Developer. React, Next.js, TypeScript. Lviv, Ukraine. Open to work. English B2.">
+  <title>Roman Chaban, Middle Frontend Developer</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#081c2e"/>
+      <stop offset="1" stop-color="#0e3a5c"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.82" cy="0.25" r="0.6">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#7dd3fc" fill-opacity="0.14"/>
+    </pattern>
+  </defs>
+  <rect width="900" height="250" rx="18" fill="url(#bg)"/>
+  <rect width="900" height="250" rx="18" fill="url(#glow)"/>
+  <rect width="900" height="250" rx="18" fill="url(#dots)"/>
+
+  <text x="48" y="84" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="48" font-weight="700" letter-spacing="-0.5" fill="#f0f9ff">Roman Chaban</text>
+  <text x="48" y="120" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="22" font-weight="600" fill="#7dd3fc">Middle Frontend Developer</text>
+  <rect x="48" y="140" width="66" height="28" rx="14" fill="#7dd3fc" fill-opacity="0.16" stroke="#7dd3fc" stroke-opacity="0.5"/><text x="63" y="158.5" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#e0f2fe">React</text>
+  <rect x="124" y="140" width="81" height="28" rx="14" fill="#7dd3fc" fill-opacity="0.16" stroke="#7dd3fc" stroke-opacity="0.5"/><text x="139" y="158.5" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#e0f2fe">Next.js</text>
+  <rect x="215" y="140" width="103" height="28" rx="14" fill="#7dd3fc" fill-opacity="0.16" stroke="#7dd3fc" stroke-opacity="0.5"/><text x="230" y="158.5" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#e0f2fe">TypeScript</text>
+  <rect x="48" y="186" width="125" height="28" rx="14" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.2"/><text x="63" y="204.5" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#cfe8f8">Lviv, Ukraine</text>
+  <rect x="183" y="186" width="131" height="28" rx="14" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.2"/><circle cx="199" cy="200" r="4" fill="#34d399"/><text x="211" y="204.5" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#cfe8f8">Open to work</text>
+  <rect x="324" y="186" width="103" height="28" rx="14" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.2"/><text x="339" y="204.5" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#cfe8f8">English B2</text>
+
+  <g transform="translate(570 30)">
+    <rect width="290" height="190" rx="14" fill="#0b2a44" fill-opacity="0.85" stroke="#7dd3fc" stroke-opacity="0.35"/>
+    <line x1="0" y1="34" x2="290" y2="34" stroke="#7dd3fc" stroke-opacity="0.2"/>
+    <circle cx="18" cy="17" r="4" fill="#7dd3fc" fill-opacity="0.55"/>
+    <circle cx="34" cy="17" r="4" fill="#7dd3fc" fill-opacity="0.35"/>
+    <circle cx="50" cy="17" r="4" fill="#7dd3fc" fill-opacity="0.2"/>
+    <rect x="16" y="52" width="110" height="14" rx="7" fill="#7dd3fc" fill-opacity="0.35"/>
+    <rect x="16" y="76" width="80" height="8" rx="4" fill="#e0f2fe" fill-opacity="0.18"/>
+    <rect x="16" y="92" width="100" height="8" rx="4" fill="#e0f2fe" fill-opacity="0.18"/>
+    <rect x="16" y="118" width="110" height="54" rx="10" fill="#7dd3fc" fill-opacity="0.1" stroke="#7dd3fc" stroke-opacity="0.3"/>
+    <rect x="146" y="52" width="128" height="120" rx="10" fill="#7dd3fc" fill-opacity="0.08" stroke="#7dd3fc" stroke-opacity="0.25"/>
+    <line x1="158" y1="150" x2="262" y2="150" stroke="#7dd3fc" stroke-opacity="0.15"/>
+    <line x1="158" y1="124" x2="262" y2="124" stroke="#7dd3fc" stroke-opacity="0.15"/>
+    <polyline points="160,148 188,140 214,126 238,102 258,82" stroke="#7dd3fc" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="258" cy="82" r="5" fill="#e0f2fe"/>
+    <text x="258" y="70" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#e0f2fe">90+</text>
+  </g>
+</svg>
