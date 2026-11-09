@@ -68,7 +68,7 @@ I have 2+ years of commercial experience building web applications with React, N
 ## Connect With Me
 
 <p>
-  <a href="mailto:roman.chaban1001@gmail.com"><img src="./assets/gmail.svg" width="150" height="44" alt="Email Roman Chaban"></a>
-  <a href="https://www.linkedin.com/in/romanchaban/"><img src="./assets/linkedin.svg" width="150" height="44" alt="Roman Chaban on LinkedIn"></a>
-  <a href="https://t.me/chaban.dev"><img src="./assets/telegram.svg" width="150" height="44" alt="Roman Chaban on Telegram"></a>
+  <a href="mailto:roman.chaban1001@gmail.com"><img src="./assets/gmail.svg" width="150" height="40" alt="Email Roman Chaban"></a>
+  <a href="https://www.linkedin.com/in/romanchaban/"><img src="./assets/linkedin.svg" width="150" height="40" alt="Roman Chaban on LinkedIn"></a>
+  <a href="https://t.me/chaban.dev"><img src="./assets/telegram.svg" width="150" height="40" alt="Roman Chaban on Telegram"></a>
 </p>
