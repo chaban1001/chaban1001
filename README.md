@@ -94,7 +94,7 @@ I enjoy solving technical challenges and building maintainable, high-quality use
   />
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=chaban1001&langs_count=5&theme=light_github)](https://github-stats-extended.vercel.app/api/top-langs?username=chaban1001&langs_count=5&theme=light_github)
 
-🤝 Connect With Me
+## 🤝 Connect With Me
 
 I'm always open to discussing new opportunities, interesting projects, and potential collaborations.
 
