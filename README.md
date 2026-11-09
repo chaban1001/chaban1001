@@ -66,7 +66,7 @@ I have 2+ years of commercial experience building web applications with React, N
 I'm open to new opportunities, interesting projects, and collaborations. Whether you're looking for a frontend developer or just want to exchange ideas, feel free to reach out.
 
 <p>
-  <a href="https://github.com/chaban1001"><img src="./assets/github.svg" width="150" height="44" alt="GitHub"></a>
+    <a href="mailto:roman.chaban1001@gmail.com"><img src="./assets/gmail.svg" width="150" height="44" alt="Gmail"></a>
   <a href="https://www.linkedin.com/in/romanchaban/"><img src="./assets/linkedin.svg" width="150" height="44" alt="LinkedIn"></a>
   <a href="https://t.me/chaban.dev"><img src="./assets/telegram.svg" width="150" height="44" alt="Telegram"></a>
 </p>
