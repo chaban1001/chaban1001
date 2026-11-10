@@ -61,12 +61,6 @@ An online fashion store featuring product browsing, responsive layouts, and pers
 
 🔗 [Live Demo](https://clothing-store-tau-drab.vercel.app/) &nbsp; · &nbsp; 💻 [Source Code](https://github.com/chaban1001/Clothings-Store)
 
-## GitHub Stats
-
-<p align="left">
-  <img src="https://ghstats.dev/api/card?username=chaban1001&theme=light&border_radius=8" alt="GitHub Stats" />
-</p>
-
 ## Let's Connect
 
 <p>
