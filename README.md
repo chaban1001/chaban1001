@@ -1,7 +1,10 @@
-<img src="./assets/new_banner.svg" alt="Roman Chaban, Middle Frontend Developer. React, Next.js, TypeScript. Lviv, Ukraine. Open to work. English B2." width="100%">
+# Hey, I'm Roman Chaban 👋
 
+**Middle Frontend Developer** · React · Next.js · TypeScript
 
 I build web applications for HR Tech and e-commerce platforms, working with SSR, GraphQL, payment flows, and web performance. I have 2+ years of commercial experience and use Feature-Sliced Design to keep codebases maintainable as they grow.
+
+📍 Lviv, Ukraine · 🟢 Open to work · 🗣 English B2
 
 ## Selected Impact
 
