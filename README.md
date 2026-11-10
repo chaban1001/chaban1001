@@ -32,7 +32,7 @@ Online fashion store with product browsing, a responsive UI, and state that pers
 
 ## GitHub Stats
 
-<img src="https://ghstats.dev/api/langs?username=chaban1001&theme=light&hide_border=true&layout=donut" alt="Top Languages" />
+<a href="https://www.githubstats.tech"><img alt="chaban1001's GitHub Stats" src="https://www.githubstats.tech/api/card?username=chaban1001&theme=react&size=default&show_name=1&show_grade=1&show_stars=1&show_commits=1&show_prs=1&show_issues=0&show_contributed=0&show_year=1&show_top_repo=1&show_profile=0&show_top_percent=0&contrib_stars=1" /></a>
 
 ## Get in Touch
 
