@@ -1,36 +1,35 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="170" viewBox="0 0 900 170" fill="none" role="img" aria-label="Impact: plus 20 percent sign-ups (Auth Stepper, product analytics). Page load from about 4 seconds to about 2.5 seconds (Lighthouse, Resume and Vacancy pages). Lighthouse Performance from 75 to 90 plus (Home and Products pages).">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="184" viewBox="0 0 900 184" fill="none" role="img" aria-label="Impact: plus 20 percent sign-ups (Auth Stepper, product analytics). Page load from about 4 seconds to about 2.5 seconds (Lighthouse, Resume and Vacancy pages). Lighthouse Performance from 75 to 90 plus (Home and Products pages).">
   <title>Selected impact</title>
   <defs>
-    <linearGradient id="cbg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0a2033"/>
-      <stop offset="1" stop-color="#0d3452"/>
-    </linearGradient>
+    <filter id="sh" x="-10%" y="-10%" width="120%" height="130%">
+      <feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#0f172a" flood-opacity="0.1"/>
+    </filter>
   </defs>
-  <g transform="translate(0 0)">
-    <rect x="0.5" y="0.5" width="283" height="169" rx="16" fill="url(#cbg)" stroke="#7dd3fc" stroke-opacity="0.25"/>
-    <rect x="24" y="0" width="36" height="3" rx="1.5" fill="#38bdf8"/>
-    <text x="24" y="64" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="34" font-weight="800" letter-spacing="-0.5" fill="#f0f9ff">+20%</text>
-    <text x="24" y="92" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#7dd3fc">Sign-ups</text>
-    <text x="24" y="116" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" fill="#cfe8f8">Auth Stepper with</text>
-    <text x="24" y="133" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" fill="#cfe8f8">mid-flow registration</text>
-    <text x="24" y="156" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" fill="#7dd3fc" fill-opacity="0.75">product analytics</text>
+  <g transform="translate(2 4)" filter="url(#sh)">
+    <rect width="284" height="160" rx="16" fill="#ffffff" stroke="#e2e8f0"/>
+    <rect x="22" y="0" width="36" height="4" rx="2" fill="#8b5cf6"/>
+    <text x="22" y="60" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="34" font-weight="800" letter-spacing="-0.5" fill="#0f172a">+20%</text>
+    <text x="22" y="88" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#6d28d9">Sign-ups</text>
+    <text x="22" y="112" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" fill="#475569">Auth Stepper with</text>
+    <text x="22" y="129" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" fill="#475569">mid-flow registration</text>
+    <text x="22" y="148" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" fill="#94a3b8">product analytics</text>
   </g>
-  <g transform="translate(308 0)">
-    <rect x="0.5" y="0.5" width="283" height="169" rx="16" fill="url(#cbg)" stroke="#7dd3fc" stroke-opacity="0.25"/>
-    <rect x="24" y="0" width="36" height="3" rx="1.5" fill="#38bdf8"/>
-    <text x="24" y="64" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="34" font-weight="800" letter-spacing="-0.5" fill="#f0f9ff">~4s → ~2.5s</text>
-    <text x="24" y="92" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#7dd3fc">Page load</text>
-    <text x="24" y="116" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" fill="#cfe8f8">SSR/hydration fixes,</text>
-    <text x="24" y="133" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" fill="#cfe8f8">optimized images</text>
-    <text x="24" y="156" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" fill="#7dd3fc" fill-opacity="0.75">Lighthouse · Resume &amp; Vacancy</text>
+  <g transform="translate(308 4)" filter="url(#sh)">
+    <rect width="284" height="160" rx="16" fill="#ffffff" stroke="#e2e8f0"/>
+    <rect x="22" y="0" width="36" height="4" rx="2" fill="#0ea5e9"/>
+    <text x="22" y="60" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="34" font-weight="800" letter-spacing="-0.5" fill="#0f172a">~4s → ~2.5s</text>
+    <text x="22" y="88" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#0369a1">Page load</text>
+    <text x="22" y="112" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" fill="#475569">SSR/hydration fixes,</text>
+    <text x="22" y="129" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" fill="#475569">optimized images</text>
+    <text x="22" y="148" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" fill="#94a3b8">Lighthouse · Resume &amp; Vacancy</text>
   </g>
-  <g transform="translate(616 0)">
-    <rect x="0.5" y="0.5" width="283" height="169" rx="16" fill="url(#cbg)" stroke="#7dd3fc" stroke-opacity="0.25"/>
-    <rect x="24" y="0" width="36" height="3" rx="1.5" fill="#38bdf8"/>
-    <text x="24" y="64" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="34" font-weight="800" letter-spacing="-0.5" fill="#f0f9ff">75 → 90+</text>
-    <text x="24" y="92" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#7dd3fc">Lighthouse Performance</text>
-    <text x="24" y="116" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" fill="#cfe8f8">Lazy loading, Suspense,</text>
-    <text x="24" y="133" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" fill="#cfe8f8">image optimization</text>
-    <text x="24" y="156" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" fill="#7dd3fc" fill-opacity="0.75">Home &amp; Products pages</text>
+  <g transform="translate(614 4)" filter="url(#sh)">
+    <rect width="284" height="160" rx="16" fill="#ffffff" stroke="#e2e8f0"/>
+    <rect x="22" y="0" width="36" height="4" rx="2" fill="#22c55e"/>
+    <text x="22" y="60" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="34" font-weight="800" letter-spacing="-0.5" fill="#0f172a">75 → 90+</text>
+    <text x="22" y="88" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#15803d">Lighthouse Performance</text>
+    <text x="22" y="112" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" fill="#475569">Lazy loading, Suspense,</text>
+    <text x="22" y="129" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" fill="#475569">image optimization</text>
+    <text x="22" y="148" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" fill="#94a3b8">Home &amp; Products pages</text>
   </g>
 </svg>
