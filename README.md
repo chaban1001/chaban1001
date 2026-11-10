@@ -1,4 +1,4 @@
-# Hey, I'm Roman Chaban 👋
+# Hey, I'm Roman 👋
 
 **Middle Frontend Developer** · React · Next.js · TypeScript
 
