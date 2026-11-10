@@ -69,9 +69,11 @@ An online fashion store featuring product browsing, responsive layouts, and pers
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romanchaban/)
-[![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=flat-square&logo=telegram&logoColor=white)](https://t.me/chaban.dev)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:roman.chaban1001@gmail.com)
+<p>
+  <a href="https://www.linkedin.com/in/romanchaban/"><img src="./assets/linkedin.svg" width="135" height="36" alt="Roman Chaban on LinkedIn"></a>
+  <a href="https://t.me/chaban.dev"><img src="./assets/telegram.svg" width="135" height="36" alt="Roman Chaban on Telegram"></a>
+  <a href="mailto:roman.chaban1001@gmail.com"><img src="./assets/gmail.svg" width="135" height="36" alt="Email Roman Chaban"></a>
+</p>
 
 <p align="left">
   Thanks for visiting my profile! Have a great day 👋
