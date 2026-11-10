@@ -67,7 +67,7 @@ An online fashion store featuring product browsing, responsive layouts, and pers
   <img src="https://ghstats.dev/api/card?username=chaban1001&theme=light&border_radius=8" alt="GitHub Stats" />
 </p>
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <p>
   <a href="https://www.linkedin.com/in/romanchaban/"><img src="./assets/linkedin.svg" width="135" height="36" alt="Roman Chaban on LinkedIn"></a>
