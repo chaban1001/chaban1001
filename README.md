@@ -33,7 +33,7 @@ I specialize in building scalable, maintainable, and high-performance applicatio
 
 A platform for exploring interior design inspiration, planning projects, and discovering showrooms through location-based search.
 
-**Stack:** `Next.js` `TypeScript` `Redux Toolkit` `Google Maps API` `Framer Motion`
+**Stack:** `Next.js` `TypeScript` `Redux Toolkit` `Google Maps API` `React Hook Form` `SCSS` `Swiper` `Jest`
 
 🔗 [Live Demo](https://dream-space-interiors.vercel.app/) &nbsp; · &nbsp; 💻 [Source Code](https://github.com/chaban1001/DreamSpace-Interiors)
 
