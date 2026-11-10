@@ -30,6 +30,10 @@ Online store for Apple products: iPhones, iPads, and accessories.<br>
 Online fashion store with product browsing, a responsive UI, and state that persists across sessions.<br>
 `Next.js` `TypeScript` `Redux Toolkit` `Redux Persist` `Swiper`
 
+## GitHub Stats
+
+<img src="https://ghstats.dev/api/langs?username=chaban1001&theme=light&hide_border=true&layout=donut" alt="Top Languages" />
+
 ## Get in Touch
 
 <p>
