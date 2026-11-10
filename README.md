@@ -1,46 +1,78 @@
 # Hey, I'm Roman 👋
 
-**Middle Frontend Developer** · React · Next.js · TypeScript
+### Middle Frontend Developer | React · Next.js · TypeScript
 
-I build web applications for HR Tech and e-commerce platforms, working with SSR, GraphQL, payment flows, and web performance. I have 2+ years of commercial experience and use Feature-Sliced Design to keep codebases maintainable as they grow.
+Frontend Developer with **2+ years of commercial experience** building production-ready web applications for **HR Tech and E-commerce** platforms.
 
-📍 Lviv, Ukraine · 🟢 Open to work · 🗣 English B2
+I specialize in building scalable, maintainable, and high-performance applications, with a focus on frontend architecture, SSR optimization, GraphQL integrations, and user experience.
+
+## About Me
+
+- 📍 **Location:** Lviv, Ukraine
+- 🟢 **Availability:** Open to Work
+- 🗣 **English:** B2
 
 ## Selected Impact
 
-<img src="./assets/impact.svg" alt="Impact: +20% sign-ups (Auth Stepper, product analytics). Page load ~4s to ~2.5s (Lighthouse, Resume and Vacancy pages). Lighthouse Performance 75 to 90+ (Home and Products pages)." width="100%">
-
-
-Also built the payment modal for Premium and Bump promotions (Portmanat, Yigim), with success, failure, and redirect handling.
+- **+20% Sign-ups** — improved the registration flow (Auth Stepper), resulting in increased user sign-ups, measured through product analytics.
+- **~37.5% Faster Page Load** — reduced loading time from ~4s to ~2.5s on Resume and Vacancy pages.
+- **Lighthouse Performance: 75 → 90+** — improved performance scores on Home and Products pages.
+- **Payment Integrations** — implemented payment modals for Premium and Bump promotions using Portmanat and Yigim, including success and failure states, payment redirects, and error handling.
 
 ## Tech Stack
 
-<p>
-  <img src="https://skills.syvixor.com/api/icons?i=javascript,typescript,html,css3,reactjs,nextjs,reacthookform,zod,redux,reactquery,graphql,apollo,sass,styledcomponents,tailwindcss,jest,cypress,git,githubactions,postman&perline=10&radius=40&theme=dark" alt="Tech stack: JavaScript, TypeScript, HTML, CSS, React, Next.js, React Hook Form, Zod, Redux, React Query, GraphQL, Apollo, Sass, Styled Components, Tailwind CSS, Jest, Cypress, Git, GitHub Actions, Postman" />
+<p align="left">
+  <img src="https://skills.syvixor.com/api/icons?i=javascript,typescript,html,css3,reactjs,nextjs,reacthookform,zod,redux,reactquery,graphql,apollo,sass,styledcomponents,tailwindcss,jest,cypress,git,githubactions,postman&perline=10&radius=12&theme=dark" alt="JavaScript, TypeScript, HTML, CSS, React, Next.js, React Hook Form, Zod, Redux Toolkit, React Query, GraphQL, Apollo Client, Sass, Styled Components, Tailwind CSS, Jest, Cypress, Git, GitHub Actions, Postman" />
 </p>
 
 ## Featured Projects
 
-**[DreamSpace Interiors](https://dream-space-interiors.vercel.app/)** · [Code](https://github.com/chaban1001/DreamSpace-Interiors)<br>
-Interior design platform with an inspiration gallery, project planning tools, and location-based showroom search.<br>
-`Next.js` `TypeScript` `Redux Toolkit` `Google Maps API` `Framer Motion`
+### DreamSpace Interiors
 
-**[iMarketplace](https://roman-chaban.github.io/iMarketplace/)** · [Code](https://github.com/chaban1001/iMarketplace)<br>
-Online store for Apple products: iPhones, iPads, and accessories.<br>
-`React` `Vite` `TypeScript` `Redux Toolkit` `React Router`
+**Interior Design Platform**
 
-**[Clothings Store](https://clothing-store-tau-drab.vercel.app/)** · [Code](https://github.com/chaban1001/Clothings-Store)<br>
-Online fashion store with product browsing, a responsive UI, and state that persists across sessions.<br>
-`Next.js` `TypeScript` `Redux Toolkit` `Redux Persist` `Swiper`
+A platform for exploring interior design inspiration, planning projects, and discovering showrooms through location-based search.
+
+**Stack:** `Next.js` `TypeScript` `Redux Toolkit` `Google Maps API` `Framer Motion`
+
+🔗 [Live Demo](https://dream-space-interiors.vercel.app/) &nbsp; · &nbsp; 💻 [Source Code](https://github.com/chaban1001/DreamSpace-Interiors)
+
+---
+
+### iMarketplace
+
+**Apple Products E-commerce**
+
+An online store for Apple products, featuring iPhones, iPads, and accessories with a responsive shopping experience.
+
+**Stack:** `React` `Vite` `TypeScript` `Redux Toolkit` `React Router`
+
+🔗 [Live Demo](https://roman-chaban.github.io/iMarketplace/) &nbsp; · &nbsp; 💻 [Source Code](https://github.com/chaban1001/iMarketplace)
+
+---
+
+### Clothings Store
+
+**Fashion E-commerce Platform**
+
+An online fashion store featuring product browsing, responsive layouts, and persistent application state across sessions.
+
+**Stack:** `Next.js` `TypeScript` `Redux Toolkit` `Redux Persist` `Swiper`
+
+🔗 [Live Demo](https://clothing-store-tau-drab.vercel.app/) &nbsp; · &nbsp; 💻 [Source Code](https://github.com/chaban1001/Clothings-Store)
 
 ## GitHub Stats
 
-<img src="https://ghstats.dev/api/card?username=chaban1001&theme=light&border_radius=8" alt="GitHub Stats Card" />
+<p align="left">
+  <img src="https://ghstats.dev/api/card?username=chaban1001&theme=light&border_radius=8" alt="GitHub Stats" />
+</p>
 
-## Get in Touch
+## 🤝 Let's Connect
 
-<p>
-  <a href="https://www.linkedin.com/in/romanchaban/"><img src="./assets/linkedin.svg" width="135" height="36" alt="Roman Chaban on LinkedIn"></a>
-  <a href="https://t.me/chaban.dev"><img src="./assets/telegram.svg" width="135" height="36" alt="Roman Chaban on Telegram"></a>
-  <a href="mailto:roman.chaban1001@gmail.com"><img src="./assets/gmail.svg" width="135" height="36" alt="Email Roman Chaban"></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romanchaban/)
+[![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=flat-square&logo=telegram&logoColor=white)](https://t.me/chaban.dev)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:roman.chaban1001@gmail.com)
+
+<p align="left">
+  Thanks for visiting my profile! Have a great day 👋
 </p>
