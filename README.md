@@ -1,6 +1,6 @@
 # Hey, I'm Roman 👋
 
-### Middle Frontend Developer | React · Next.js · TypeScript
+### Frontend Developer (React / Next.js / TypeScript)
 
 Frontend Developer with **2+ years of commercial experience** building production-ready web applications for **HR Tech and E-commerce** platforms.
 
