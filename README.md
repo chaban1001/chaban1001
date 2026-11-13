@@ -1,74 +1,66 @@
-# Hey, I'm Roman 👋
+# Hi, I'm Roman 👋
 
-### Frontend Developer (React / Next.js / TypeScript)
+### Frontend Engineer · React · Next.js · TypeScript
 
-Frontend Developer with **2+ years of commercial experience** building production-ready web applications for **HR Tech and E-commerce** platforms.
+**2+ years** of professional experience in **HR Tech** and **E-commerce**. I build and optimize production web apps, with a focus on **performance**, **SSR**, and **conversion-driven user flows**.
 
-I specialize in building scalable, maintainable, and high-performance applications, with a focus on frontend architecture, SSR optimization, GraphQL integrations, and user experience.
+📍 Ukraine · 🌍 Remote only · 🟢 Open to work
 
-## About Me
+## Impact
 
-- 📍 **Location:** Lviv, Ukraine
-- 🟢 **Availability:** Open to Work
-- 🗣 **English:** B2
-
-## Selected Impact
-
-- **+20% Sign-ups** — improved the registration flow (Auth Stepper), resulting in increased user sign-ups, measured through product analytics.
-- **~37.5% Faster Page Load** — reduced loading time from ~4s to ~2.5s on Resume and Vacancy pages.
-- **Lighthouse Performance: 75 → 90+** — improved performance scores on Home and Products pages.
-- **Payment Integrations** — implemented payment modals for Premium and Bump promotions using Portmanat and Yigim, including success and failure states, payment redirects, and error handling.
+- **+20% sign-ups.** Improved the Auth Stepper registration flow and measured the result through product analytics.
+- **37.5% faster page load.** Reduced load time from about 4 to 2.5 seconds on the Resume and Vacancy pages.
+- **Lighthouse Performance 90+.** Raised the score from 75 on the Home and Products pages.
+- **Payment integrations.** Built Premium and Bump payment flows with Portmanat and Yigim, including redirects, error handling, and success and failure states.
 
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skills.syvixor.com/api/icons?i=javascript,typescript,html,css3,reactjs,nextjs,reacthookform,zod,redux,reactquery,graphql,apollo,sass,styledcomponents,tailwindcss,jest,cypress,git,githubactions,postman&perline=10&radius=12&theme=dark" alt="JavaScript, TypeScript, HTML, CSS, React, Next.js, React Hook Form, Zod, Redux Toolkit, React Query, GraphQL, Apollo Client, Sass, Styled Components, Tailwind CSS, Jest, Cypress, Git, GitHub Actions, Postman" />
+  <img src="https://skills.syvixor.com/api/icons?i=javascript,typescript,html,css3,sass,tailwindcss,styledcomponents,reactjs,nextjs,redux,reacthookform,zod,reactquery,graphql,apollo,jest,cypress,git,githubactions,postman&perline=10&radius=12&theme=dark" alt="JavaScript, TypeScript, HTML, CSS, Sass, Tailwind CSS, Styled Components, React, Next.js, Redux Toolkit, React Hook Form, Zod, React Query, GraphQL, Apollo Client, Jest, Cypress, Git, GitHub Actions, Postman" />
 </p>
 
 ## Featured Projects
 
 ### DreamSpace Interiors
 
-**Interior Design Platform**
+An interior design platform for exploring inspiration, planning projects, and discovering showrooms through location-based search.
 
-A platform for exploring interior design inspiration, planning projects, and discovering showrooms through location-based search.
+- Location-based showroom search built with the Google Maps API
+- Form handling with React Hook Form
+- Unit tests written with Jest
 
 **Stack:** `Next.js` `TypeScript` `Redux Toolkit` `Google Maps API` `React Hook Form` `SCSS` `Swiper` `Jest`
 
-🔗 [Live Demo](https://dream-space-interiors.vercel.app/) &nbsp; · &nbsp; 💻 [Source Code](https://github.com/chaban1001/DreamSpace-Interiors)
-
----
+[Live Demo](https://dream-space-interiors.vercel.app/) · [Source Code](https://github.com/chaban1001/DreamSpace-Interiors)
 
 ### iMarketplace
 
-**Apple Products E-commerce**
+An online store for Apple products with a responsive shopping experience, featuring iPhones, iPads, and accessories.
 
-An online store for Apple products, featuring iPhones, iPads, and accessories with a responsive shopping experience.
+- Single-page app with client-side routing via React Router
+- Global state managed with Redux Toolkit
+- Typed with TypeScript and built with Vite
 
 **Stack:** `React` `Vite` `TypeScript` `Redux Toolkit` `React Router`
 
-🔗 [Live Demo](https://roman-chaban.github.io/iMarketplace/) &nbsp; · &nbsp; 💻 [Source Code](https://github.com/chaban1001/iMarketplace)
-
----
+[Live Demo](https://roman-chaban.github.io/iMarketplace/) · [Source Code](https://github.com/chaban1001/iMarketplace)
 
 ### Clothings Store
 
-**Fashion E-commerce Platform**
+An online fashion store with product browsing, responsive layouts, and application state that persists across sessions.
 
-An online fashion store featuring product browsing, responsive layouts, and persistent application state across sessions.
+- Application state persisted across sessions with Redux Persist
+- Server-rendered pages with Next.js
+- Product sliders built with Swiper
 
 **Stack:** `Next.js` `TypeScript` `Redux Toolkit` `Redux Persist` `Swiper`
 
-🔗 [Live Demo](https://clothing-store-tau-drab.vercel.app/) &nbsp; · &nbsp; 💻 [Source Code](https://github.com/chaban1001/Clothings-Store)
+[Live Demo](https://clothing-store-tau-drab.vercel.app/) · [Source Code](https://github.com/chaban1001/Clothings-Store)
 
-## Let's Connect
+## Contact
 
-<p>
-  <a href="https://www.linkedin.com/in/romanchaban/"><img src="./assets/linkedin.svg" width="135" height="36" alt="Roman Chaban on LinkedIn"></a>
-  <a href="https://t.me/chaban.dev"><img src="./assets/telegram.svg" width="135" height="36" alt="Roman Chaban on Telegram"></a>
-  <a href="mailto:roman.chaban1001@gmail.com"><img src="./assets/gmail.svg" width="135" height="36" alt="Email Roman Chaban"></a>
-</p>
+I'm open to remote Frontend Engineer roles. Feel free to reach out.
 
-<p align="left">
-  Thanks for visiting my profile! Have a great day 👋
-</p>
+- **LinkedIn:** [linkedin.com/in/romanchaban](https://www.linkedin.com/in/romanchaban/)
+- **Email:** [roman.chaban1001@gmail.com](mailto:roman.chaban1001@gmail.com)
+- **Telegram:** [@chaban.dev](https://t.me/chaban.dev)
