@@ -25,10 +25,6 @@
 
 An interior design platform for exploring inspiration, planning projects, and discovering showrooms through location-based search.
 
-- Location-based showroom search built with the Google Maps API
-- Form handling with React Hook Form
-- Unit tests written with Jest
-
 **Stack:** `Next.js` `TypeScript` `Redux Toolkit` `Google Maps API` `React Hook Form` `SCSS` `Swiper` `Jest`
 
 [Live Demo](https://dream-space-interiors.vercel.app/) · [Source Code](https://github.com/chaban1001/DreamSpace-Interiors)
@@ -36,10 +32,6 @@ An interior design platform for exploring inspiration, planning projects, and di
 ### iMarketplace
 
 An online store for Apple products with a responsive shopping experience, featuring iPhones, iPads, and accessories.
-
-- Single-page app with client-side routing via React Router
-- Global state managed with Redux Toolkit
-- Typed with TypeScript and built with Vite
 
 **Stack:** `React` `Vite` `TypeScript` `Redux Toolkit` `React Router`
 
@@ -49,13 +41,16 @@ An online store for Apple products with a responsive shopping experience, featur
 
 An online fashion store with product browsing, responsive layouts, and application state that persists across sessions.
 
-- Application state persisted across sessions with Redux Persist
-- Server-rendered pages with Next.js
-- Product sliders built with Swiper
-
 **Stack:** `Next.js` `TypeScript` `Redux Toolkit` `Redux Persist` `Swiper`
 
 [Live Demo](https://clothing-store-tau-drab.vercel.app/) · [Source Code](https://github.com/chaban1001/Clothings-Store)
+
+## Currently Focusing On
+
+- Advanced TypeScript and JavaScript fundamentals
+- Scalable frontend architecture and clean, maintainable code
+- Algorithms and problem solving
+- Professional English (currently B2)
 
 ## Contact
 
