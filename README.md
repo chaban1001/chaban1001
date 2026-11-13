@@ -3,7 +3,7 @@
 ```ts
 const aboutMe = {
   name: "Roman Chaban",
-  role: "Frontend Engineer",
+  role: "Frontend Developer",
   experience: "2+ years",
   domains: ["HR Tech", "E-commerce"],
   stack: ["TypeScript", "React", "Next.js", "Redux Toolkit", "GraphQL"],
