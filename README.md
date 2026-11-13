@@ -1,10 +1,19 @@
 # Hi, I'm Roman 👋
 
-### Frontend Developer · React · Next.js · TypeScript
+```ts
+const aboutMe = {
+  name: "Roman Chaban",
+  role: "Frontend Engineer",
+  experience: "2+ years",
+  domains: ["HR Tech", "E-commerce"],
+  stack: ["TypeScript", "React", "Next.js", "Redux Toolkit", "GraphQL"],
+  location: "Ukraine",
+  workMode: "Remote only",
+  openToWork: true,
+} as const;
+```
 
-**2+ years** of professional experience in **HR Tech** and **E-commerce**. I build and optimize production web apps, with a focus on **performance**, **SSR**, and **conversion-driven user flows**.
-
-📍 Ukraine · 🌍 Remote only · 🟢 Open to work
+I like building fast, reliable web apps and turning product ideas into smooth user flows, especially where **performance**, **SSR**, and **conversion** matter. Right now I'm sharpening my TypeScript, frontend architecture, and English.
 
 ## Impact
 
