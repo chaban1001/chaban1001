@@ -16,7 +16,7 @@
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skills.syvixor.com/api/icons?i=javascript,typescript,html,css3,sass,tailwindcss,styledcomponents,reactjs,nextjs,redux,reacthookform,zod,reactquery,graphql,apollo,jest,cypress,git,githubactions,postman&perline=10&radius=12&theme=dark" alt="JavaScript, TypeScript, HTML, CSS, Sass, Tailwind CSS, Styled Components, React, Next.js, Redux Toolkit, React Hook Form, Zod, React Query, GraphQL, Apollo Client, Jest, Cypress, Git, GitHub Actions, Postman" />
+  <img src="https://skills.syvixor.com/api/icons?i=javascript,typescript,html,css3,sass,tailwindcss,styledcomponents,reactjs,nextjs,redux,reactquery,reacthookform,zod,graphql,apollo,i18next,featuresliceddesign,jest,cypress,eslint,prettier,git,npm,yarn,figma,postman,vercel,claudeai,chatgpt&perline=10&radius=40&theme=dark" alt="JavaScript, TypeScript, HTML, CSS, Sass, Tailwind CSS, Styled Components, React, Next.js, Redux Toolkit, React Query, React Hook Form, Zod, GraphQL, Apollo Client, i18next, Feature-Sliced Design, Jest, Cypress, ESLint, Prettier, Git, npm, Yarn, Figma, Postman, Vercel, Claude, ChatGPT" />
 </p>
 
 ## Featured Projects
