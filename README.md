@@ -54,7 +54,7 @@ An online fashion store with product browsing, responsive layouts, and applicati
 
 ## Contact
 
-I'm open to remote Frontend Engineer roles. Feel free to reach out.
+I'm open to remote Frontend Developer roles. Feel free to reach out.
 
 - **LinkedIn:** [linkedin.com/in/romanchaban](https://www.linkedin.com/in/romanchaban/)
 - **Email:** [roman.chaban1001@gmail.com](mailto:roman.chaban1001@gmail.com)
