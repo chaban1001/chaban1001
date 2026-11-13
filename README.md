@@ -1,6 +1,6 @@
 # Hi, I'm Roman 👋
 
-### Frontend Engineer · React · Next.js · TypeScript
+### Frontend Developer · React · Next.js · TypeScript
 
 **2+ years** of professional experience in **HR Tech** and **E-commerce**. I build and optimize production web apps, with a focus on **performance**, **SSR**, and **conversion-driven user flows**.
 
