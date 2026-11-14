@@ -36,7 +36,7 @@ An interior design platform for exploring inspiration, planning projects, and di
 
 **Stack:** `Next.js` `TypeScript` `Redux Toolkit` `Google Maps API` `React Hook Form` `SCSS` `Swiper` `Jest`
 
-[Live Demo](https://dream-space-interiors.vercel.app/) · [Source Code](https://github.com/chaban1001/DreamSpace-Interiors)
+[Live Demo](https://dream-space-interiors.vercel.app/) · [Source Code](https://github.com/romanchaban-dev/DreamSpace-Interiors)
 
 ### iMarketplace
 
@@ -44,7 +44,7 @@ An online store for Apple products with a responsive shopping experience, featur
 
 **Stack:** `React` `Vite` `TypeScript` `Redux Toolkit` `React Router`
 
-[Live Demo](https://roman-chaban.github.io/iMarketplace/) · [Source Code](https://github.com/chaban1001/iMarketplace)
+[Live Demo](https://romanchaban-dev.github.io/iMarketplace/) · [Source Code](https://github.com/romanchaban-dev/iMarketplace)
 
 ### Clothings Store
 
@@ -52,7 +52,7 @@ An online fashion store with product browsing, responsive layouts, and applicati
 
 **Stack:** `Next.js` `TypeScript` `Redux Toolkit` `Redux Persist` `Swiper`
 
-[Live Demo](https://clothing-store-tau-drab.vercel.app/) · [Source Code](https://github.com/chaban1001/Clothings-Store)
+[Live Demo](https://clothing-store-tau-drab.vercel.app/) · [Source Code](https://github.com/romanchaban-dev/Clothings-Store)
 
 ## Currently Focusing On
 
